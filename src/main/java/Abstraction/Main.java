@@ -15,6 +15,18 @@ public class Main {
         airIndia.takeOff();
         airIndia.planeColour();
 
+//        Program Output
+/*
+        Hello Ujjain
+        Passenger Planes are flying at medium height
+        Passenger Planes are taking off on huge runway
+        Indigo Planes are white and blue coloured
+        ==============================
+        Passenger Planes are flying at medium height
+        Passenger Planes are taking off on huge runway
+        Air India Planes are white and red coloured
+         */
+
 
     }
 }
