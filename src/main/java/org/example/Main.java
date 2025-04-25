@@ -33,7 +33,19 @@ public class Main {
         System.out.println(encapsulation.getSalary());
 
 
+//        Output of program
 
-
+//        Hello, World!
+//        15
+//        Mahendra
+//        22
+//        male
+//        70000
+//       ==========================================================
+//        10
+//        Kundan
+//        25
+//        male
+//        80000
     }
 }
