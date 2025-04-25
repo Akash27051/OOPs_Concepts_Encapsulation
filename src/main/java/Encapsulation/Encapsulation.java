@@ -1,4 +1,4 @@
-package org.example;
+package Encapsulation;
 
 public class Encapsulation {
     private int id=10;
